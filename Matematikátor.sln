@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematikátor", "Matematikátor\Matematikátor.csproj", "{7A776CDB-6519-4AD1-BAD1-B891B3535E59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A776CDB-6519-4AD1-BAD1-B891B3535E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A776CDB-6519-4AD1-BAD1-B891B3535E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A776CDB-6519-4AD1-BAD1-B891B3535E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A776CDB-6519-4AD1-BAD1-B891B3535E59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA54757C-4EDF-4556-BBA7-289E2606D4F2}
+	EndGlobalSection
+EndGlobal
